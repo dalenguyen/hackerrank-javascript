@@ -3,9 +3,6 @@
 function getMoneySpent(keyboards, drives, s){
     // Complete this function
     let max = -1;
-    // Sort keyboards and drivers descending
-    keyboards = keyboards.sort((a,b) => b-a);
-    drives = drives.sort((a,b) => b-a);
 
     // I'm trying to get the total number of keyboard and drive
     // then compare to the money.
