@@ -4,6 +4,6 @@ I'm just trying to solve HackerRank algorithm, data structures... by using JavaS
 
 # Algorithm
 
-- [Electronics Shop](https://github.com/dalenguyen/hackerrank-javascript/blob/master/electronics-shop.js)
+- [Electronics Shop](https://github.com/dalenguyen/hackerrank-javascript/blob/master/algorithms/electronics-shops.js)
 
 # Data Structures
