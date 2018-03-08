@@ -20,5 +20,6 @@ I'm just trying to solve HackerRank algorithm, data structures... by using JavaS
 ## Implementation
 
 - [Electronics Shop](https://github.com/dalenguyen/hackerrank-javascript/blob/master/algorithms/electronics-shops.js)
+- [Bon Appétit](https://github.com/dalenguyen/hackerrank-javascript/blob/master/algorithms/bon-appetit.js)
 
 # Data Structures
